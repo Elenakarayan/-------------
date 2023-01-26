@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\решение10\bin\Debug\net6.0\решение10.exe
+C:\Users\Lenovo\Documents\решение10\bin\Debug\net6.0\решение10.deps.json
+C:\Users\Lenovo\Documents\решение10\bin\Debug\net6.0\решение10.runtimeconfig.json
+C:\Users\Lenovo\Documents\решение10\bin\Debug\net6.0\решение10.dll
+C:\Users\Lenovo\Documents\решение10\bin\Debug\net6.0\решение10.pdb
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\решение10.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\решение10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\решение10.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\решение10.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\решение10.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\решение10.dll
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\refint\решение10.dll
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\решение10.pdb
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\решение10.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\решение10\obj\Debug\net6.0\ref\решение10.dll
